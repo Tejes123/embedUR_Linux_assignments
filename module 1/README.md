@@ -1,5 +1,5 @@
 ### Module 1 Assignments
-#### 1) Create a file and add executable permission to all users (user, group and others)
+### 1) Create a file and add executable permission to all users (user, group and others)
 
 1) Create a file using the command:
 
@@ -24,7 +24,7 @@
 ![Image](task1.png)
 
 
-#### 2) Create a file and remove write permission for group user alone
+### 2) Create a file and remove write permission for group user alone
 
 1) Create a file using the command:
 
@@ -46,7 +46,7 @@
 
 ![Image](task2.png)
 
-#### 3) Create a file and add a softlink to the file in different directory (Eg : Create a file in dir1/dir2/file and create a softlink for file inside dir1)
+### 3) Create a file and add a softlink to the file in different directory (Eg : Create a file in dir1/dir2/file and create a softlink for file inside dir1)
 
 1) Create the directory `dir1` and sub-directory by the command:
 
@@ -83,7 +83,7 @@
 
 ![Image](task3.png)
 
-#### 4) Use ps command with options to display all active process running on the system           
+### 4) Use ps command with options to display all active process running on the system           
 
 1) List all the proceess running in the machine through the below command:
 
@@ -101,7 +101,7 @@
 
    ![Image](task4_2.png)
 
-#### 5) Create 3 files in a dir1 and re-direct the output of list command with sorted by timestamp of the files to a file
+### 5) Create 3 files in a dir1 and re-direct the output of list command with sorted by timestamp of the files to a file
 
 1) Ceate 3 files using the using `touch` command, and leave some time between file creating using `sleep`:
 
