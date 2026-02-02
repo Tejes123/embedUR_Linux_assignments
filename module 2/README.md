@@ -16,7 +16,7 @@
     ```shell
     sed 's/localhost/127.0.0.1/g' > updated_config.txt
     ```
-3. display the contents of `output.txt`
+3. display the contents of `update_config.txt`
 
 ![Image](2.png)
 
